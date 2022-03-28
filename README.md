@@ -6,7 +6,7 @@
 
 My name is Diogo Santos and I'm in my third year of studies towards a bachelor's in Computer Science at Instituto Superior Tecnico.
 
-<h1 align="Center"> <img src="https://c.tenor.com/uyeLKxEDK8wAAAAC/what-confused.gif" width="80px">
+<h1 align="Center"> <img src="https://c.tenor.com/uyeLKxEDK8wAAAAC/what-confused.gif" width="100px">
   
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
