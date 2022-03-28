@@ -4,9 +4,18 @@
 
 <h1 align="Center">  Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-My name is Diogo Santos and I'm in my third year of studies towards a bachelor's in Computer Science at Instituto Superior Tecnico.
+My name is Mariana Charneca and I'm in my third year of studies towards a bachelor's in Computer Science at Instituto Superior Tecnico.
+<h1 align="Center">Welcome to my page!
 
-<h1 align="Center"> <img src="https://c.tenor.com/uyeLKxEDK8wAAAAC/what-confused.gif" width="100px">
+
+<h1 align="Center"> <img src="https://media2.giphy.com/media/Lopx9eUi34rbq/giphy.gif?cid=ecf05e471pgwm9sv1032tgacwofow90x3l8qft5gevz5nusr&rid=giphy.gif&ct=g" width="300px">
+ <br />
+ <br /> 
+   <!-- Markdown -->  
+
+![Jokes Card](https://readme-jokes.vercel.app/api?&theme=watermelon)
+  
+
   
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
