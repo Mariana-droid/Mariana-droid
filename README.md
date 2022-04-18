@@ -15,7 +15,7 @@ My name is Mariana Charneca and I'm in my third year of studies towards a bachel
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?&theme=watermelon)
   
-Also, go check out a game I helped make, sweet droplet: https://dannyisyog.itch.io/sweet-droplet
+Also, go check out a game I helped make, Sweet Droplet: https://dannyisyog.itch.io/sweet-droplet
   
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
