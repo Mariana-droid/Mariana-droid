@@ -8,7 +8,7 @@ My name is Mariana Charneca. I have a bachelor in Computer Science at Instituto 
 <h1 align="Center">Welcome to my page!
 
 
-<h1 align="Center"> <img src="https://media.tenor.com/5YGEbG3UNvYAAAAC/red-panda-cub.gif" width="300px">
+<h1 align="Center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmI0MzM4dmswdTdyeHh1bGZrbTA5c24wdXNiMXBmM2tmazQxN2wwbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fC4vvkZZNX1Tfnuxzt/200w.gif" width="300px">
  <br />
  <br /> 
    <!-- Markdown -->  
