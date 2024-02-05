@@ -4,7 +4,7 @@
 
 <h1 align="Center">  Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-My name is Mariana Charneca. I have a bachelor in Computer Science at Instituto Superior Tecnico and currently doing my master's in Video Games Development at Anglia Ruskin University.
+My name is Mariana Charneca. I have a bachelor in Computer Science at Instituto Superior Tecnico and a master's in PC Video Games Development at Anglia Ruskin University.
 <h1 align="Center">Welcome to my page!
 
 
